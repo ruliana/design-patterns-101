@@ -1,0 +1,6 @@
+require_relative 'mercearia/real'
+require_relative 'mercearia/produto'
+require_relative 'mercearia/saquinho'
+require_relative 'mercearia/cesta'
+require_relative 'mercearia/prateleira'
+require_relative 'mercearia/embalador'
